@@ -33,7 +33,7 @@ print("Swapped values are:",a,b)
 ![Screenshot 2023-11-09 104615](https://github.com/saiganesh2006/Swapping-two-values/assets/145742342/099048a9-e55b-4693-bab9-cd1e274d3bc9)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
